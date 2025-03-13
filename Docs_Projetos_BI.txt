@@ -1,0 +1,19 @@
+Gere um modelo de templates Registro de Treinamento (lista de participantes). projetos de B.I.
+Use data mock para exemplos no preenchimentos.  Este documento será usado no Word.
+Caso tenha tabelas mostre-a e também formatação do documento.
+
+
+
+
+1. Documento de Escopo do Projeto ok
+2. Especificação Funcional  ok
+3. Plano de Integração de Dados ok
+4. Documentação Técnica ok
+5. Manual do Usuário  ok
+6. Plano de Gerenciamento de Mudanças ok
+7. Relatório de Status do Projeto ok
+8. Registro de Lições Aprendidas ok
+9. Plano de Treinamento ok
+10. Plano de Suporte e Manutenção ok
+11. Matriz RACI (Responsabilidades) ok
+12. Plano de Encerramento do Projeto
